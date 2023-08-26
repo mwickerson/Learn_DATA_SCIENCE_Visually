@@ -10,7 +10,6 @@ ONE ADVANCED PYTHON 3 NODE SCRIPT
 PART 1:
 
 001 Mathematics
-002
   001 LINEAR ALGEBRA
     001 vectors
     002 matrices
