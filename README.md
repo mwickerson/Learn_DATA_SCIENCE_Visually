@@ -48,7 +48,7 @@
     018 Chi-Square Test
     020 Regression Analysis
     021 Bayesian Inference
-    022 Maximuym Likelihood Estimation (MLE)
+    022 Maximum Likelihood Estimation (MLE)
     023 Probability Distributtion
     024 Conditional Probability
     025 Bayes' Theorem
